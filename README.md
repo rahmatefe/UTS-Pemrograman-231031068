@@ -3,4 +3,4 @@
 <div> Nim : 231031068 </div>
 <div> Prodi : Sistem Informasi C </div>
 
-* Middle Genap : Nim Genap `praktikum-c1.py`
+* Middle Genap : Nim Genap `RAHMAT EFENDI-231031068-middle-SIC`
